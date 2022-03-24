@@ -1,0 +1,14 @@
+C:\Users\Иван\source\repos\meth\meth\bin\Debug\netcoreapp3.1\meth.exe
+C:\Users\Иван\source\repos\meth\meth\bin\Debug\netcoreapp3.1\meth.deps.json
+C:\Users\Иван\source\repos\meth\meth\bin\Debug\netcoreapp3.1\meth.runtimeconfig.json
+C:\Users\Иван\source\repos\meth\meth\bin\Debug\netcoreapp3.1\meth.runtimeconfig.dev.json
+C:\Users\Иван\source\repos\meth\meth\bin\Debug\netcoreapp3.1\meth.dll
+C:\Users\Иван\source\repos\meth\meth\bin\Debug\netcoreapp3.1\meth.pdb
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.AssemblyInfo.cs
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.dll
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.pdb
+C:\Users\Иван\source\repos\meth\meth\obj\Debug\netcoreapp3.1\meth.genruntimeconfig.cache

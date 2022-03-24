@@ -1,0 +1,13 @@
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.AssemblyInfo.cs
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\meth\meth3\bin\Debug\netcoreapp3.1\meth3.exe
+C:\Users\Иван\source\repos\meth\meth3\bin\Debug\netcoreapp3.1\meth3.deps.json
+C:\Users\Иван\source\repos\meth\meth3\bin\Debug\netcoreapp3.1\meth3.runtimeconfig.json
+C:\Users\Иван\source\repos\meth\meth3\bin\Debug\netcoreapp3.1\meth3.runtimeconfig.dev.json
+C:\Users\Иван\source\repos\meth\meth3\bin\Debug\netcoreapp3.1\meth3.dll
+C:\Users\Иван\source\repos\meth\meth3\bin\Debug\netcoreapp3.1\meth3.pdb
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.dll
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.pdb
+C:\Users\Иван\source\repos\meth\meth3\obj\Debug\netcoreapp3.1\meth3.genruntimeconfig.cache

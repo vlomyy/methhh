@@ -1,0 +1,15 @@
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.AssemblyInfo.cs
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\meth\meth4\bin\Debug\net6.0\meth4.exe
+C:\Users\Иван\source\repos\meth\meth4\bin\Debug\net6.0\meth4.deps.json
+C:\Users\Иван\source\repos\meth\meth4\bin\Debug\net6.0\meth4.runtimeconfig.json
+C:\Users\Иван\source\repos\meth\meth4\bin\Debug\net6.0\meth4.dll
+C:\Users\Иван\source\repos\meth\meth4\bin\Debug\net6.0\meth4.pdb
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.dll
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\refint\meth4.dll
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.pdb
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\meth4.genruntimeconfig.cache
+C:\Users\Иван\source\repos\meth\meth4\obj\Debug\net6.0\ref\meth4.dll
